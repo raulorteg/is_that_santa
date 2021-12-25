@@ -41,7 +41,15 @@ _to use a trained model on new images:_
 _to reproduce these results:_
 1. Execute the shell script ```sh run_all.sh```
 
-_training_:
 ![results](results/training_plots.png)
 
 ## Out of dataset samples (external)
+
+Classified right:
+
+![results](figures/external_samples.png)
+
+Apparently it can be fooled with an elf:
+
+![results](figures/fooling_elf.png)
+
